@@ -1,8 +1,8 @@
 # Hugh Jass's Construction
-# Global Game Jam Waterloo 2018
-# Winner of the "Most Fun" award
-# Game Build Here: https://globalgamejam.org/2018/games/hugh-jass-construction
-# Created by Daniel Utvich, Robert Graham-Hu, James Graham-Hu, Marcus Hum
+* Global Game Jam Waterloo 2018 *
+* Winner of the "Most Fun" award *
+* Game Build Here: https://globalgamejam.org/2018/games/hugh-jass-construction *
+* Created by Daniel Utvich, Robert Graham-Hu, James Graham-Hu, Marcus Hum *
 
 A competitive 2 player platformer. 
 
